@@ -40,9 +40,11 @@ Open in Browser
 
 Simply open index.html in your web browser to view the gallery.
 
-🖼 Demo
-Coming soon... Add screenshots or live demo link here if available.
-
 📌 Notes
 All modal behavior is controlled using plain JavaScript (no frameworks).
 The gallery is mobile-friendly and adapts to various screen sizes.
+
+##  Author
+
+Himani Kotnala — [@himanikotnala](https://github.com/himanikotnala)
+
